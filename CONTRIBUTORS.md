@@ -218,3 +218,7 @@
 - Bio: Student at MNNIT Allahabad
 - GitHub: [Shivani Gupta](https://github.com/develop19)
 
+### Name: [Arinna Black](https://github.com/ArinnaBee)
+- Place: Virginia, USA
+- Bio: Writer
+- Github: [ArinnaBee](https://github.com/ArinnaBee)
